@@ -1,0 +1,5 @@
+BasedOnStyle: LLVM
+IndentWidth: 4       # usa 4 espaços para indentação
+TabWidth: 4          # largura visual de tab (caso tenha tabs)
+UseTab: Never        # sempre usar espaços, nunca tab
+ColumnLimit: 120     # linhas até 200 colunas antes de quebrar
